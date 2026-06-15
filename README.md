@@ -1,4 +1,6 @@
-# Smart-Irrigation-Fault-Detection-System
+# Smart-Irrigation-Fault-Detection-System 
+
+The Smart Irrigation Fault Detection System uses Machine Learning techniques to monitor irrigation systems and identify abnormal conditions. Sensor data including soil moisture, temperature, humidity, light intensity, water flow rate, and pump pressure are collected and processed. The data is scaled and used to train a Support Vector Machine (SVM) classifier. The trained model predicts whether the irrigation system is operating normally or experiencing a fault. This helps farmers and agricultural managers take corrective actions quickly, ensuring efficient water management and improved crop health.
 
 
 # Objective :- 
@@ -8,11 +10,6 @@
 3. To analyze sensor data such as soil moisture, temperature, humidity, light intensity, water flow rate, and pump pressure.
 4. To improve irrigation efficiency and reduce water wastage.
 5. To provide timely fault detection for better agricultural productivity.
-
-
-# Summary :- 
-
-The Smart Irrigation Fault Detection System uses Machine Learning techniques to monitor irrigation systems and identify abnormal conditions. Sensor data including soil moisture, temperature, humidity, light intensity, water flow rate, and pump pressure are collected and processed. The data is scaled and used to train a Support Vector Machine (SVM) classifier. The trained model predicts whether the irrigation system is operating normally or experiencing a fault. This helps farmers and agricultural managers take corrective actions quickly, ensuring efficient water management and improved crop health.
 
 
 # Key Features :- 
